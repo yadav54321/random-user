@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yadav54321/randomuser1/static/css/main.6fba588f.css",
+    "main.js": "/yadav54321/randomuser1/static/js/main.5a527630.js",
+    "index.html": "/yadav54321/randomuser1/index.html",
+    "main.6fba588f.css.map": "/yadav54321/randomuser1/static/css/main.6fba588f.css.map",
+    "main.5a527630.js.map": "/yadav54321/randomuser1/static/js/main.5a527630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fba588f.css",
+    "static/js/main.5a527630.js"
+  ]
+}
