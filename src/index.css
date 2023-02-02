@@ -16,8 +16,10 @@ body{
   border-radius: 3%;
   padding: 24px 20px;
   color: #000;
+
 }
 .card img{
   border-radius: 100%;
   border: 2px solid rgb(31, 6, 121);
+  
 }
