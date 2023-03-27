@@ -2,7 +2,7 @@
   "name": "randomuser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/yadav54321/randomuser1", 
+  "homepage": "https://github.com/randomuser1", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
